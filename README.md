@@ -31,12 +31,12 @@
 <details open>
 <summary>About Me</summary>
 <ul>
-<li> <img src='./public/GlobalWarming.gif' width=20/> I’m currently working on various personal projects and contributing to open-source.</li>
-<li> <img src='./public/Skitty.gif' width=16/> I’m looking to collaborate on exciting open-source projects.</li>
-<li> <img src='./public/JakeTheDog.gif' width=16/> Ask me about backend development, Nodejs, and Databases.</li>
-<li> <img src='./public/Announcements.gif' width=20/> All projects available at <a href="https://github.com/IsmailBinMujeeb">GitHub</a></li>
-<li> <img src='./public/PinkCellPhone.gif' width=16/> How to reach me: <a href='mailto:IsmailBinMujeeb@gmail.com'>IsmailBinMujeeb@gmail.com</a></li>
-<li> <img src='./public/BurnBook.gif'/ width=16> Fun fact: I love reading horror books at the end of weeks.</li>
+<li> <img src='./public/GlobalWarming.gif' width='16'/> I’m currently working on various personal projects and contributing to open-source.</li>
+<li> <img src='./public/Skitty.gif' width='16'/> I’m looking to collaborate on exciting open-source projects.</li>
+<li> <img src='./public/JakeTheDog.gif' width='16'/> Ask me about backend development, Nodejs, and Databases.</li>
+<li> <img src='./public/Announcements.gif' width='16'/> All projects available at <a href="https://github.com/IsmailBinMujeeb">GitHub</a></li>
+<li> <img src='./public/PinkCellPhone.gif' width='16'/> How to reach me: <a href='mailto:IsmailBinMujeeb@gmail.com'>IsmailBinMujeeb@gmail.com</a></li>
+<li> <img src='./public/BurnBook.gif' width='16'/> Fun fact: I love reading horror books at the end of weeks.</li>
 </ul>
 </details>
 
