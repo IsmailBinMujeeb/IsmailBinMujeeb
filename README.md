@@ -83,4 +83,9 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailBinMujeeb&theme=dark" alt="IsmailBinMujeeb's GitHub stats" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbinmujeeb&langs_count=10&title_color=facc15&text_color=ffffff&theme=dark&icon_color=22c55e&bg_color=22272e&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</p>
 </details>
+
+
