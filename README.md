@@ -1,9 +1,9 @@
 <h1 align="center"><img src="./public/PinkAmongUs.gif" height="40"> Hi I'm Ismail</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Backend%20Development-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20Development-1ba098?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Rest APIs-CB9DF0?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-DevOps%20Tools-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-DevOps%20Tools-1ba098?style=flat" />
 </p>
 
 <details open>
@@ -24,7 +24,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Simplicity+is+the+soul+of+efficiency.;It's+not+a+bug+%E2%80%93;it's+an+undocumented+feature." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=deb992&width=435&lines=Simplicity+is+the+soul+of+efficiency.;It's+not+a+bug+%E2%80%93;it's+an+undocumented+feature." alt="Typing SVG" /></a>
 </p>
 </details>
 
@@ -81,10 +81,10 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailBinMujeeb&theme=dark" alt="IsmailBinMujeeb's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailBinMujeeb&theme=radical" alt="IsmailBinMujeeb's GitHub stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbinmujeeb&langs_count=10&title_color=facc15&text_color=ffffff&theme=dark&icon_color=22c55e&bg_color=22272e&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbinmujeeb&langs_count=10&theme=radical&&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </p>
 </details>
 
