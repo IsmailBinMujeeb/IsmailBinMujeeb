@@ -58,6 +58,7 @@
     <img src="https://img.shields.io/badge/-109989?logo=FASTAPI&logoColor=white" alt="express-js" width="40" height="40"/>
     <img src="https://img.shields.io/badge/-brown?logo=mongoose&logoColor=white" alt="mongoose" width="40" height="40"/>
     <img src="https://img.shields.io/badge/-000?logo=socket.io&logoColor=white" alt="socket.io" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-3982CE?logo=prisma&logoColor=white" alt="prisma" width="40" height="40"/>
 </p>
 
 <h3 align="center">Databases</h3>
