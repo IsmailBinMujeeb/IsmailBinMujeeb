@@ -40,13 +40,13 @@
 <h2 align="center">Hall Of Frame</h2>
 <p align="center">
     <a href="https://github.com/IsmailBinMujeeb/zare">
-        <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/zare.png" alt="zare" width="40" height=""40/>
+        <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/zare.png" alt="zare" width=80" height=80"/>
     </a>
     <a href="https://github.com/io-browser/io">
-        <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/io.png" alt="io" width="40" height=""40/>
+        <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/io.png" alt="io" width=80" height=80"/>
     </a>
     <a href="https://github.com/IsmailBinMujeeb/Quar-Studio">
-        <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/quar.png" alt="quar" width="40" height=""40/>
+        <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/quar.png" alt="quar" width=80" height=80"/>
     </a>
 </p>
 
