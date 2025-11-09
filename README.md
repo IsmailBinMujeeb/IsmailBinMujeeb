@@ -49,16 +49,3 @@
         <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/quar.png" alt="quar" width=80" height=80"/>
     </a>
 </p>
-
-<hr style="margin-bottom: 20px"/>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IsmailBinMujeeb&show_icons=true&theme=dark" alt="IsmailBinMujeeb's GitHub stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailBinMujeeb&theme=dark" alt="IsmailBinMujeeb's GitHub stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbinmujeeb&langs_count=10&theme=dark&&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</p>
