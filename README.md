@@ -48,7 +48,7 @@
     <a href="https://github.com/IsmailBinMujeeb/Quar-Studio">
         <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/quar.png" alt="quar" width=80" height=80"/>
     </a>
-	<a href="https://github.com/IsmailBinMujeeb/Quar-Studio">
+	<a href="https://github.com/IsmailBinMujeeb/nodero">
         <img src="https://raw.githubusercontent.com/ismailbinmujeeb/assets/main/nodero.png" alt="quar" width=80" height=80"/>
     </a>
 </p>
