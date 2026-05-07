@@ -23,8 +23,6 @@
 
 <br/>
 
----
-
 ## `~/whoami`
 
 ```typescript
@@ -40,8 +38,6 @@ const ismail: Developer = {
 ```
 
 <br/>
-
----
 
 ## `~/tech-stack`
 
@@ -67,8 +63,6 @@ const ismail: Developer = {
 
 <br/>
 
----
-
 ## `~/hall-of-fame`
 
 <div align="center">
@@ -90,8 +84,6 @@ const ismail: Developer = {
 
 <br/>
 
----
-
 ## `~/stats`
 
 <div align="center">
@@ -102,19 +94,6 @@ const ismail: Developer = {
 
 <br/>
 
----
-
-## `~/activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?00d4ffusername=IsmailBinMujeeb&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&area_color=003322&hide_border=true&custom_title=contribution%20graph" />
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
